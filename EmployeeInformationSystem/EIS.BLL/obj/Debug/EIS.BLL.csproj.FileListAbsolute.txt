@@ -1,0 +1,13 @@
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.BLL.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.BLL.pdb
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.DAL.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.Entitites.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.Exceptions.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.DAL.pdb
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.Entitites.pdb
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\bin\Debug\EIS.Exceptions.pdb
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\obj\Debug\EIS.BLL.csprojAssemblyReference.cache
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\obj\Debug\EIS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\obj\Debug\EIS.BLL.csproj.CopyComplete
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\obj\Debug\EIS.BLL.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.BLL\obj\Debug\EIS.BLL.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Entitites\bin\Debug\EIS.Entitites.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Entitites\bin\Debug\EIS.Entitites.pdb
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Entitites\obj\Debug\EIS.Entitites.csprojAssemblyReference.cache
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Entitites\obj\Debug\EIS.Entitites.csproj.CoreCompileInputs.cache
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Entitites\obj\Debug\EIS.Entitites.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Entitites\obj\Debug\EIS.Entitites.pdb

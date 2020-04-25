@@ -1,0 +1,11 @@
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.DAL.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.DAL.pdb
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.Entitites.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.Exceptions.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.Entitites.pdb
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.Exceptions.pdb
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.csprojAssemblyReference.cache
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.csproj.CopyComplete
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Exceptions\bin\Debug\EIS.Exceptions.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Exceptions\bin\Debug\EIS.Exceptions.pdb
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Exceptions\obj\Debug\EIS.Exceptions.csprojAssemblyReference.cache
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Exceptions\obj\Debug\EIS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Exceptions\obj\Debug\EIS.Exceptions.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.Exceptions\obj\Debug\EIS.Exceptions.pdb

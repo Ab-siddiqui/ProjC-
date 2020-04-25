@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.Entitites", "EIS.Entitites\EIS.Entitites.csproj", "{7E963488-F1F1-4368-B406-224C58673826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.Exceptions", "EIS.Exceptions\EIS.Exceptions.csproj", "{1367D978-BDAA-4A6E-A8B9-9D76465176A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.DAL", "EIS.DAL\EIS.DAL.csproj", "{31EF1D7F-43D5-4AFF-AC92-0C2514A8119C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.BLL", "EIS.BLL\EIS.BLL.csproj", "{7E657945-0669-4701-A259-0CAED878F018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.PL", "EIS.PL\EIS.PL.csproj", "{031C743F-E2D8-468F-937A-6AB177464080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.LoggerService", "EIS.LoggerService\EIS.LoggerService.csproj", "{69BA3410-29F3-4D4F-BA2C-0F8CA0491DC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E963488-F1F1-4368-B406-224C58673826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E963488-F1F1-4368-B406-224C58673826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E963488-F1F1-4368-B406-224C58673826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E963488-F1F1-4368-B406-224C58673826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1367D978-BDAA-4A6E-A8B9-9D76465176A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1367D978-BDAA-4A6E-A8B9-9D76465176A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1367D978-BDAA-4A6E-A8B9-9D76465176A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1367D978-BDAA-4A6E-A8B9-9D76465176A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EF1D7F-43D5-4AFF-AC92-0C2514A8119C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EF1D7F-43D5-4AFF-AC92-0C2514A8119C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EF1D7F-43D5-4AFF-AC92-0C2514A8119C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EF1D7F-43D5-4AFF-AC92-0C2514A8119C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E657945-0669-4701-A259-0CAED878F018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E657945-0669-4701-A259-0CAED878F018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E657945-0669-4701-A259-0CAED878F018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E657945-0669-4701-A259-0CAED878F018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031C743F-E2D8-468F-937A-6AB177464080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031C743F-E2D8-468F-937A-6AB177464080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031C743F-E2D8-468F-937A-6AB177464080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031C743F-E2D8-468F-937A-6AB177464080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BA3410-29F3-4D4F-BA2C-0F8CA0491DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BA3410-29F3-4D4F-BA2C-0F8CA0491DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BA3410-29F3-4D4F-BA2C-0F8CA0491DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BA3410-29F3-4D4F-BA2C-0F8CA0491DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {071F8CC3-29D9-4267-9CB3-7B31558D6CF0}
+	EndGlobalSection
+EndGlobal

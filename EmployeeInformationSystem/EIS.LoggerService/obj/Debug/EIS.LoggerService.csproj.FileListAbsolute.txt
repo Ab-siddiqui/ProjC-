@@ -1,0 +1,6 @@
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.LoggerService\bin\Debug\EIS.LoggerService.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.LoggerService\bin\Debug\EIS.LoggerService.pdb
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.LoggerService\obj\Debug\EIS.LoggerService.csprojAssemblyReference.cache
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.LoggerService\obj\Debug\EIS.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.LoggerService\obj\Debug\EIS.LoggerService.dll
+C:\Users\Mohsin\Desktop\AB\EmployeeInformationSystem\EIS.LoggerService\obj\Debug\EIS.LoggerService.pdb
